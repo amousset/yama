@@ -1,0 +1,6 @@
+[package]
+name = "yama"
+version = "0.1.0"
+authors = ["Alexis Mousset <contact@amousset.me>"]
+
+[dependencies]
